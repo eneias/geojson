@@ -1,0 +1,6754 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Puebla, Puebla, Mexico",
+        "ddd": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2061996,
+          19.0412967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tepeaca, Puebla, Mexico",
+        "ddd": 223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8993756,
+          18.9659554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tecali de Herrera, Puebla, Mexico",
+        "ddd": 224
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9742086,
+          18.9022377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "93650 Tlapacoyan, Ver., Mexico",
+        "ddd": 225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2140557,
+          19.9609426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Altotonga, Ver., Mexico",
+        "ddd": 226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2455952,
+          19.7661213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Huejotzingo, Puebla, Mexico",
+        "ddd": 227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4047163,
+          19.1589453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Xalapa, Ver., Mexico",
+        "ddd": 228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9101806,
+          19.5437751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Heroica Veracruz, Ver., Mexico",
+        "ddd": 229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1342241,
+          19.173773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Teziutlán, Pue., Mexico",
+        "ddd": 231
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3570576,
+          19.8160106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Martínez de la Torre, Ver., Mexico",
+        "ddd": 232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0545256,
+          20.0615132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zacapoaxtla, Puebla, Mexico",
+        "ddd": 233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5887976,
+          19.8735055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Misantla, Ver., Mexico",
+        "ddd": 235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8513362,
+          19.933042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ajalpan, Pue., Mexico",
+        "ddd": 236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2591254,
+          18.3781582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Gabriel Chilac, Puebla, Mexico",
+        "ddd": 237
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3485729,
+          18.3261353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tehuacán, Puebla, Mexico",
+        "ddd": 238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4003801,
+          18.4665063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Apizaco, Tlaxcala, Mexico",
+        "ddd": 241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1393179,
+          19.415881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Izúcar de Matamoros, Puebla, Mexico",
+        "ddd": 243
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4677851,
+          18.5991249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Atlixco, Puebla, Mexico",
+        "ddd": 244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4293891,
+          18.9131227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cd Serdán, Pue., Mexico",
+        "ddd": 245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4543626,
+          18.9844003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tlaxcala, Tlaxcala, Mexico",
+        "ddd": 246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2404397,
+          19.3139243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Huamantla, Tlax., Mexico",
+        "ddd": 247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9233826,
+          19.3184941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Martín Texmelucan de Labastida, Puebla, Mexico",
+        "ddd": 248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.434873,
+          19.284383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tecamachalco, Puebla, Mexico",
+        "ddd": 249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7327256,
+          18.8819104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Córdoba, Ver., Mexico",
+        "ddd": 271
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9237751,
+          18.8838909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Orizaba, Ver., Mexico",
+        "ddd": 272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1036396,
+          18.8504744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Huatusco, Ver., Mexico",
+        "ddd": 273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9665476,
+          19.1482351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tierra Blanca, Ver., Mexico",
+        "ddd": 274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3598367,
+          18.4458276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chiautla de Tapia, Pue., Mexico",
+        "ddd": 275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5995773,
+          18.2989072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cd de Libres, Pue., Mexico",
+        "ddd": 276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6846567,
+          19.4682032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tezonapa, Santa Fe, 68410 Cosolapa, Oaxaca, Mexico",
+        "ddd": 278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6788722,
+          18.603619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Naolinco de Victoria, Ver., Mexico",
+        "ddd": 279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8699481,
+          19.6548167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Loma Bonita, Oaxaca, Mexico",
+        "ddd": 281
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8803869,
+          18.1096868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Perote, Ver., Mexico",
+        "ddd": 282
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2464071,
+          19.5572354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Isla, Ver., Mexico",
+        "ddd": 283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.52761,
+          18.031505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lerdo de Tejada, Ver., Mexico",
+        "ddd": 284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5205013,
+          18.6295662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Soledad de Doblado, Ver., Mexico",
+        "ddd": 285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4247279,
+          19.0502406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tuxtepec, Oax., Mexico",
+        "ddd": 287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1420947,
+          18.0809028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cosamaloapan, Ver., Mexico",
+        "ddd": 288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7958363,
+          18.3663192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Andrés Tuxtla, Ver., Mexico",
+        "ddd": 294
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2130284,
+          18.4441222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "José Cardel, Ver., Mexico",
+        "ddd": 296
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3765274,
+          19.371104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alvarado, Ver., Mexico",
+        "ddd": 297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.758949,
+          18.7696195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tepic, Nayarit, Mexico",
+        "ddd": 311
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8945887,
+          21.5041651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Colima, Col., Mexico",
+        "ddd": 312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7240868,
+          19.2452342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tecomán, Colima, Mexico",
+        "ddd": 313
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.8738031,
+          18.9173829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Manzanillo, Col., Mexico",
+        "ddd": 314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3384616,
+          19.1138094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cihuatlán, Jalisco, Mexico",
+        "ddd": 315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5684406,
+          19.2376572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "48050 Ayutla, Jalisco, Mexico",
+        "ddd": 316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3439311,
+          20.1280233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Autlán, Jalisco, Mexico",
+        "ddd": 317
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3667578,
+          19.7707745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tuxpan, Ver., Mexico",
+        "ddd": 319
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4063351,
+          20.9561149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Grullo, XX Cafe Combate, 83165 Hermosillo, Son., Mexico",
+        "ddd": 321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9206709,
+          29.1041987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Puerto Vallarta, Jal., Mexico",
+        "ddd": 322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2253316,
+          20.653407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Santiago Ixcuintla, Nayarit, Mexico",
+        "ddd": 323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.204327,
+          21.8131863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ixtlán del Río, Nay., Mexico",
+        "ddd": 324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3704625,
+          21.0337968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Acaponeta, Nay., Mexico",
+        "ddd": 325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3628846,
+          22.4959544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Atemajac de Brizuela, Jalisco, Mexico",
+        "ddd": 326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7285006,
+          20.1408274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Compostela, Nay., Mexico",
+        "ddd": 327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9007613,
+          21.2379255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Vista Hermosa de Negrete, Mich., Mexico",
+        "ddd": 328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.4736623,
+          20.2727958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Valle de Banderas, Nayarit, Mexico",
+        "ddd": 329
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2470848,
+          20.8074146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Guadalajara, Jalisco, Mexico",
+        "ddd": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3496092,
+          20.6596988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciudad Guzmán, Jalisco, Mexico",
+        "ddd": 341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4685183,
+          19.7050171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sayula, Jalisco, Mexico",
+        "ddd": 342
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5986529,
+          19.8786995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Juanacatlán, Jal., Mexico",
+        "ddd": 343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1697093,
+          20.5085984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Yahualica de González Gallo, Jalisco, Mexico",
+        "ddd": 344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8831247,
+          21.1782822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ayotlán, Jal., Mexico",
+        "ddd": 345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3306392,
+          20.5299754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Teocaltiche, Jal., Mexico",
+        "ddd": 346
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5728335,
+          21.4361959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Miguel el Alto, Jalisco, Mexico",
+        "ddd": 347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.4040252,
+          21.0297575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Arandas, Jal., Mexico",
+        "ddd": 348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.346916,
+          20.705519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Juchitlán, Jalisco, Mexico",
+        "ddd": 349
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.1000829,
+          20.0829584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zamora, Michoacán, Mexico",
+        "ddd": 351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.2834075,
+          19.9901766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "La Piedad, Michoacán, Mexico",
+        "ddd": 352
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0443851,
+          20.3307372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sahuayo, Michoacán, Mexico",
+        "ddd": 353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7162354,
+          20.0587903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Los Reyes, Michoacán, Mexico",
+        "ddd": 354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.469587,
+          19.5881049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tangancícuaro de Arista, Mich., Mexico",
+        "ddd": 355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.2061624,
+          19.8872477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Yurecuaro, Michoacán, Mexico",
+        "ddd": 356
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.2834075,
+          20.329802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Casimiro Castillo, Jalisco, Mexico",
+        "ddd": 357
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2881957,
+          19.3409006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tamazula de Gordiano, Jal., Mexico",
+        "ddd": 358
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2540219,
+          19.675135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Numarán, Mich., Mexico",
+        "ddd": 359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9547783,
+          20.256077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tecalitlán, Jalisco, Mexico",
+        "ddd": 371
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3070959,
+          19.4715159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Teocuitatlán de Corona, Jal., Mexico",
+        "ddd": 372
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3784449,
+          20.0920434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zapotlanejo, Jalisco, Mexico",
+        "ddd": 373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0673833,
+          20.6201831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tequila, Jalisco, Mexico",
+        "ddd": 374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.8325001,
+          20.8819452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ameca, Jalisco, Mexico",
+        "ddd": 375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0466211,
+          20.5476288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chapala, Jal., Mexico",
+        "ddd": 376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1846016,
+          20.3051576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cocula, Jal., Mexico",
+        "ddd": 377
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.8227749,
+          20.3653885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tepatitlán de Morelos, Jalisco, Mexico",
+        "ddd": 378
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7652326,
+          20.8098057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San José de Gracia, Aguascalientes, Mexico",
+        "ddd": 381
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.4129804,
+          22.1475929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mazamitla, Jal., Mexico",
+        "ddd": 382
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0212924,
+          19.9165757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Santiago Tangamandapio, Mich., Mexico",
+        "ddd": 383
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.4351923,
+          19.953163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tala, Jalisco, Mexico",
+        "ddd": 384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7045718,
+          20.6586258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Martín de Hidalgo, Jalisco, Mexico",
+        "ddd": 385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.931801,
+          20.4381973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Magdalena, Son., Mexico",
+        "ddd": 386
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9685464,
+          30.6245992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Acatlán de Juárez, Jal., Mexico",
+        "ddd": 387
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5928664,
+          20.4216103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mascota, Jal., Mexico",
+        "ddd": 388
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7892254,
+          20.5260029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "63440 Tecuala, Nay., Mexico",
+        "ddd": 389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4595306,
+          22.3965755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Atotonilco El Alto, Jalisco, Mexico",
+        "ddd": 391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5081224,
+          20.5502447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ocotlán, Jalisco, Mexico",
+        "ddd": 392
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7652326,
+          20.3417485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "La Barça, Jalisco, Mexico",
+        "ddd": 393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1204549,
+          20.3909102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cotija de la Paz, Mich., Mexico",
+        "ddd": 394
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7002307,
+          19.8096991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Juan de los Lagos, Jal., Mexico",
+        "ddd": 395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3316999,
+          21.2474689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cortazar, Guanajuato, Mexico",
+        "ddd": 411
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9637456,
+          20.4771827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Comonfort, Guanajuato, Mexico",
+        "ddd": 412
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7596892,
+          20.7197856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Apaseo el Alto, Guanajuato, Mexico",
+        "ddd": 413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6224706,
+          20.4602715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tequisquiapan, Qro., Mexico",
+        "ddd": 414
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8850586,
+          20.5187326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Miguel de Allende, Guanajuato, Mexico",
+        "ddd": 415
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.745235,
+          20.9144491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Acámbaro, Gto., Mexico",
+        "ddd": 417
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.718241,
+          20.025105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dolores Hidalgo Cuna de la Independencia Nacional, Gto., Mexico",
+        "ddd": 418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9367183,
+          21.151597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San José Iturbide, Guanajuato, Mexico",
+        "ddd": 419
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.386287,
+          20.998668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jerécuaro, Guanajuato, Mexico",
+        "ddd": 421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5099262,
+          20.1494259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "61830 Ario de Rosales, Mich., Mexico",
+        "ddd": 422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7039828,
+          19.2065232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Paracho, Michoacán, Mexico",
+        "ddd": 423
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0461233,
+          19.6464537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Coalcomán de Vázquez Pallares, Michoacán, Mexico",
+        "ddd": 424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.159617,
+          18.77496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nueva Italia de Ruiz, Michoacán, Mexico",
+        "ddd": 425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0921083,
+          19.0217359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Aguililla, Mich., Mexico",
+        "ddd": 426
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7853522,
+          18.7371188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Juan del Río, Qro., Mexico",
+        "ddd": 427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9856344,
+          20.3951106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Felipe, Guanajuato, Mexico",
+        "ddd": 428
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.21588,
+          21.4788756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Abasolo, Guanajuato, Mexico",
+        "ddd": 429
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5265017,
+          20.452319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jalostotitlán, Jalisco, Mexico",
+        "ddd": 431
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.4673749,
+          21.1678232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cd Manuel Doblado, Gto., Mexico",
+        "ddd": 432
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.951295,
+          20.7281302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sombrerete, Zac., Mexico",
+        "ddd": 433
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6391657,
+          23.6342457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pátzcuaro, Michoacán, Mexico",
+        "ddd": 434
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6091876,
+          19.5134546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Huetamo, Michoacán, Mexico",
+        "ddd": 435
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8993615,
+          18.6315316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zacapu, Michoacán, Mexico",
+        "ddd": 436
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7956703,
+          19.8125119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tlaltenango de Sánchez Román, Zac., Mexico",
+        "ddd": 437
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2980962,
+          21.777077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Puruándiro, Michoacán, Mexico",
+        "ddd": 438
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5156981,
+          20.0880149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ezequiel Montes, Qro., Mexico",
+        "ddd": 441
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8962279,
+          20.6713387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Santiago de Querétaro, Qro., Mexico",
+        "ddd": 442
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3898881,
+          20.5887932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Morelia, Mich., Mexico",
+        "ddd": 443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1949825,
+          19.7059504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Luis Potosi, San Luis Potosi, Mexico",
+        "ddd": 444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9855409,
+          22.1564699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Moroleón, Guanajuato, Mexico",
+        "ddd": 445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1933423,
+          20.1264558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Maravatío de Ocampo, Mich., Mexico",
+        "ddd": 447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4565159,
+          19.8967503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pedro Escobedo, Qro., Mexico",
+        "ddd": 448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1395169,
+          20.5010443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Aguascalientes, Aguascalientes, Mexico",
+        "ddd": 449
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.2915677,
+          21.8852562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zinapecuaro de Figueroa, Mich., Mexico",
+        "ddd": 451
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8272566,
+          19.8600588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Uruapan, Michoacán, Mexico",
+        "ddd": 452
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0430476,
+          19.4064492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Apatzingán de la Constitución, Mich., Mexico",
+        "ddd": 453
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.353674,
+          19.0837305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Quiroga, Michoacán, Mexico",
+        "ddd": 454
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5232766,
+          19.6648009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cuitzeo del Porvenir, Mich., Mexico",
+        "ddd": 455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1419185,
+          19.9694366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Valle de Santiago, Guanajuato, Mexico",
+        "ddd": 456
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1900528,
+          20.392169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Valparaíso, Zacatecas, Mexico",
+        "ddd": 457
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5697229,
+          22.7709086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ojocaliente, Zac., Mexico",
+        "ddd": 458
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.2546666,
+          22.5706028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tacámbaro de Codallos, Mich., Mexico",
+        "ddd": 459
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4594696,
+          19.2338126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Celaya, Gto., Mexico",
+        "ddd": 461
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8112885,
+          20.5279612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Irapuato, Gto., Mexico",
+        "ddd": 462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3544964,
+          20.6786652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jalpa, Zac., Mexico",
+        "ddd": 463
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9778617,
+          21.637432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Salamanca, Guanajuato, Mexico",
+        "ddd": 464
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1957172,
+          20.5739314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rincón de Romos, Aguascalientes, Mexico",
+        "ddd": 465
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3206187,
+          22.2289132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Salvatierra, Guanajuato, Mexico",
+        "ddd": 466
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8818401,
+          20.2090023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Juchipila, Zac., Mexico",
+        "ddd": 467
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1175436,
+          21.4121021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Luis de la Paz, Guanajuato, Mexico",
+        "ddd": 468
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5239867,
+          21.293404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pénjamo, Guanajuato, Mexico",
+        "ddd": 469
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.724058,
+          20.4313532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Purépero de Echáiz, Mich., Mexico",
+        "ddd": 471
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0061503,
+          19.9068328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Silao, Guanajuato, Mexico",
+        "ddd": 472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4282369,
+          20.952141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Guanajuato, Guanajuato, Mexico",
+        "ddd": 473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2573586,
+          21.0190145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lagos de Moreno, Jal., Mexico",
+        "ddd": 474
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9291015,
+          21.3634964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Encarnación de Díaz, Jalisco, Mexico",
+        "ddd": 475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.2402619,
+          21.526318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Francisco del Rincón, Guanajuato, Mexico",
+        "ddd": 476
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8492577,
+          21.0170828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Leon, Guanajuato, Mexico",
+        "ddd": 477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6859605,
+          21.1250077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Víctor Rosales, Zac., Mexico",
+        "ddd": 478
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.6997537,
+          22.9459474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciudad Valles, San Luis Potosi, Mexico",
+        "ddd": 481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0018424,
+          22.0025712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciudad del Maíz, San Luis Potosi, Mexico",
+        "ddd": 482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6035176,
+          22.4020541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tamazunchale, San Luis Potosi, Mexico",
+        "ddd": 483
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7881496,
+          21.2593926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Santa Maria del Rio, San Luis Potosi, Mexico",
+        "ddd": 485
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7336555,
+          21.8031036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cerritos, San Luis Potosi, Mexico",
+        "ddd": 486
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2836708,
+          22.4321301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rioverde, San Luis Potosi, Mexico",
+        "ddd": 487
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9856344,
+          21.9277923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Matehuala, San Luis Potosi, Mexico",
+        "ddd": 488
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.64279,
+          23.6448029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Xilitla, S.L.P., Mexico",
+        "ddd": 489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9921748,
+          21.3841719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zacatecas, Mexico",
+        "ddd": 492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5832426,
+          22.7708555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fresnillo, Zacatecas, Mexico",
+        "ddd": 493
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8687414,
+          23.1777586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jerez de García Salinas, Zac., Mexico",
+        "ddd": 494
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9876221,
+          22.6468746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Calvillo, Aguascalientes, Mexico",
+        "ddd": 495
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7186454,
+          21.8468345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Loreto, Zacatecas, Mexico",
+        "ddd": 496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9890236,
+          22.2715352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Río Grande, Zac., Mexico",
+        "ddd": 498
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0328135,
+          23.8272471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Villanueva, Zacatecas, Mexico",
+        "ddd": 499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8841199,
+          22.3539588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cuauhtémoc, Federal District, Mexico",
+        "ddd": 55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1495107,
+          19.4356338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Villa del Carbón, Méx., Mexico",
+        "ddd": 588
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4617111,
+          19.7287602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zumpango, State of Mexico, Mexico",
+        "ddd": 591
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0930528,
+          19.8039297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Otompan, State of Mexico, Mexico",
+        "ddd": 592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.75751,
+          19.6988525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Huehuetoca, State of Mexico, Mexico",
+        "ddd": 593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2037508,
+          19.8277305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Acolman de Nezahualcóyotl, Méx., Mexico",
+        "ddd": 594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9107373,
+          19.6420614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Texcoco, State of Mexico, Mexico",
+        "ddd": 595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8831503,
+          19.5060382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Reyes Acozac, Los Reyes Acozac, Méx., Mexico",
+        "ddd": 596
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9811275,
+          19.772736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Amecameca, State of Mexico, Mexico",
+        "ddd": 597
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7667481,
+          19.1223754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Apaxco de Ocampo, Méx., Mexico",
+        "ddd": 599
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1705253,
+          19.9709926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mexico City, Federal District, Mexico",
+        "ddd": 612
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.133208,
+          19.4326077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciudad Constitución, Baja California Sur, Mexico",
+        "ddd": 613
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6601104,
+          25.0384869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chihuahua, Chihuahua, Mexico",
+        "ddd": 614
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0691004,
+          28.6329957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Santa Rosalía, B.C.S., Mexico",
+        "ddd": 615
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2701486,
+          27.3361939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Quintín, Baja California, Mexico",
+        "ddd": 616
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9379302,
+          30.5608767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Durango, Dgo., Mexico",
+        "ddd": 618
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6531759,
+          24.0277202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Saucillo, Chihuahua, Mexico",
+        "ddd": 621
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2916729,
+          28.027181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Guaymas, Sonora, Mexico",
+        "ddd": 622
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9089378,
+          27.9178651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ures, Son., Mexico",
+        "ddd": 623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3859913,
+          29.4260093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cabo San Lucas, Baja California Sur, Mexico",
+        "ddd": 624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9167371,
+          22.8905327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cuauhtémoc, Federal District, Mexico",
+        "ddd": 625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1495107,
+          19.4356338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ojinaga, Chihuahua, Mexico",
+        "ddd": 626
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4082908,
+          29.5458844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Parral, Chihuahua, Mexico",
+        "ddd": 627
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6666166,
+          26.9317835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Valle de Ignacio Allende, Chih., Mexico",
+        "ddd": 628
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3928344,
+          26.9371422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "José Mariano Jiménez, Chih., Mexico",
+        "ddd": 629
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9230692,
+          27.1301401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nogales, Sonora, Mexico",
+        "ddd": 631
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9381047,
+          31.3011855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Magdalena de Kino, Sonora, Mexico",
+        "ddd": 632
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9641681,
+          30.6272249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Agua Prieta, Sonora, Mexico",
+        "ddd": 633
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5489617,
+          31.3277755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nacozari de García, Sonora, Mexico",
+        "ddd": 634
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6875376,
+          30.3753424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Vicente Guerrero, Durango, Mexico",
+        "ddd": 635
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9832684,
+          23.7321074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nuevo Casas Grandes Municipality, Chihuahua, Mexico",
+        "ddd": 636
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9144836,
+          30.4124523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Caborca, Son., Mexico",
+        "ddd": 637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1884767,
+          30.696972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Puerto Peñasco, Sonora, Mexico",
+        "ddd": 638
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5311843,
+          31.3268218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Delicias, Chihuahua, Mexico",
+        "ddd": 639
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4595306,
+          28.1871201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Santa Ana Ixtlahuatzingo, Méx., Mexico",
+        "ddd": 641
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6239749,
+          18.9697827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Navojoa, Sonora, Mexico",
+        "ddd": 642
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4437493,
+          27.0727573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Benito Juárez, Son., Mexico",
+        "ddd": 643
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8373798,
+          27.1293271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cd Obregón, Son., Mexico",
+        "ddd": 644
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.930367,
+          27.4827729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cananea, Son., Mexico",
+        "ddd": 645
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.289179,
+          30.9897648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ensenada, Baja California, Mexico",
+        "ddd": 646
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5963713,
+          31.8667427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Huatabampo, Son., Mexico",
+        "ddd": 647
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6418609,
+          26.8271492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Camargo, Chih., Mexico",
+        "ddd": 648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1713145,
+          27.6799994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Guachochi, Chihuahua, Mexico",
+        "ddd": 649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.0692221,
+          26.8200412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sonoyta, Sonora, Mexico",
+        "ddd": 651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8488631,
+          31.8629677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciudad Madera, Chihuahua, Mexico",
+        "ddd": 652
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.1447314,
+          29.1932973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Luis Río Colorado, Son., Mexico",
+        "ddd": 653
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.771711,
+          32.4518877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciudad Juarez, Chihuahua, Mexico",
+        "ddd": 656
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4245478,
+          31.6903638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Vicente Guerrero, Vicente Guerrero, B.C., Mexico",
+        "ddd": 658
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7335861,
+          32.7140331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Namiquipa, Chihuahua, Mexico",
+        "ddd": 659
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.4129114,
+          29.2497759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rosarito, Baja California, Mexico",
+        "ddd": 661
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0617553,
+          32.3661011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hermosillo, Son., Mexico",
+        "ddd": 662
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9559192,
+          29.0729673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tijuana, Baja California, Mexico",
+        "ddd": 664
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0382471,
+          32.5149469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tecate, Baja California, Mexico",
+        "ddd": 665
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6346969,
+          32.5685837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Culiacán, Sinaloa, Mexico",
+        "ddd": 667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3940117,
+          24.8090649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mochis, Sin., Mexico",
+        "ddd": 668
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0514979,
+          25.8266539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mazatlán, Sin., Mexico",
+        "ddd": 669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4111425,
+          23.2494148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cuencamé, Durango, Mexico",
+        "ddd": 671
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6972217,
+          24.8684207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Navolato, Sinaloa, Mexico",
+        "ddd": 672
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7014482,
+          24.7637822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Guamúchil, Sinaloa, Mexico",
+        "ddd": 673
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.07765,
+          25.4586777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Santiago Papasquiaro, Dgo., Mexico",
+        "ddd": 674
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4243804,
+          25.0426222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "El Salto, S.L.P., Mexico",
+        "ddd": 675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6974999,
+          22.4636109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciudad Guadalupe Victoria, Durango, Mexico",
+        "ddd": 676
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.1218422,
+          24.4429859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nuevo Ideal, Durango, Mexico",
+        "ddd": 677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0761999,
+          24.8851705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mexicali, Baja California, Mexico",
+        "ddd": 686
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4522623,
+          32.6245389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Guasave, Sinaloa, Mexico",
+        "ddd": 687
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4673051,
+          25.5666987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rosario, Son., Mexico",
+        "ddd": 694
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3710009,
+          27.8439632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Escuinapa, Sin., Mexico",
+        "ddd": 695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.901299,
+          22.84561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cruz, Forestal I, 07140 Ciudad de México, D.F., Mexico",
+        "ddd": 696
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1294416,
+          19.5707156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Angostura, Sinaloa, Mexico",
+        "ddd": 697
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.1591316,
+          25.3679709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "El Fuerte, San Lorenzo Xicoténcatl, Ciudad de México, D.F., Mexico",
+        "ddd": 698
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0273957,
+          19.3819209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tlalpujahua de Rayón, Mich., Mexico",
+        "ddd": 711
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1734224,
+          19.8055547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Atlacomulco, State of Mexico, Mexico",
+        "ddd": 712
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8766825,
+          19.7975581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Santiago Tianguistenco, State of Mexico, Mexico",
+        "ddd": 713
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.467615,
+          19.1804002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tenancingo, State of Mexico, Mexico",
+        "ddd": 714
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5910738,
+          18.9613407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zitácuaro, Michoacán, Mexico",
+        "ddd": 715
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3554035,
+          19.4323039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Almoloya de Alquisiras, Méx., Mexico",
+        "ddd": 716
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8940022,
+          18.8657376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tenango de Arista, State of Mexico, Mexico",
+        "ddd": 717
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5882131,
+          19.1053422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Francisco Tepeolulco, Méx., Mexico",
+        "ddd": 718
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9884299,
+          19.8207548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Xonacatlan de Vicencio, 52060 Xonacatlán, Méx., Mexico",
+        "ddd": 719
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5256331,
+          19.4043708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ixtapan de la Sal, State of Mexico, Mexico",
+        "ddd": 721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.675904,
+          18.8376097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Toluca, State of Mexico, Mexico",
+        "ddd": 722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6556653,
+          19.2826098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Coatepec Harinas, Méx., Mexico",
+        "ddd": 723
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.768626,
+          18.9244995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tejupilco de Hidalgo, Méx., Mexico",
+        "ddd": 724
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1507188,
+          18.9062177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Almoloya de Juárez, State of Mexico, Mexico",
+        "ddd": 725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7605116,
+          19.3690064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Valle de Bravo, Méx., Mexico",
+        "ddd": 726
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1326725,
+          19.1950964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Huitzuco, Guerrero, Mexico",
+        "ddd": 727
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3338801,
+          18.3031459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lerma de Villada, Méx., Mexico",
+        "ddd": 728
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5172926,
+          19.2900074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "62800 Tetela del Volcán, Morelos, Mexico",
+        "ddd": 731
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7205877,
+          18.8937717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Arcelia, Guerrero, Mexico",
+        "ddd": 732
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2851372,
+          18.3151227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Iguala, Guerrero, Mexico",
+        "ddd": 733
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5397344,
+          18.3448477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jojutla, Morelos, Mexico",
+        "ddd": 734
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1825766,
+          18.6235424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cuautla, Morelos, Mexico",
+        "ddd": 735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9548261,
+          18.8126047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Teloloapan, Guerrero, Mexico",
+        "ddd": 736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8697066,
+          18.3654775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "62600 Miacatlán, Morelos, Mexico",
+        "ddd": 737
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3534348,
+          18.7717876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mixquiahuala, Hgo., Mexico",
+        "ddd": 738
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2106551,
+          20.2304048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tepoztlán, Mor., Mexico",
+        "ddd": 739
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0930528,
+          18.9848015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ometepec, Guerrero, Mexico",
+        "ddd": 741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4101984,
+          16.6908954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Atoyac de Álvarez, Guerrero, Mexico",
+        "ddd": 742
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4340367,
+          17.2018417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tezontepec, Hgo., Mexico",
+        "ddd": 743
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8218954,
+          19.8820941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Acapulco, Guerrero, Mexico",
+        "ddd": 744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8236533,
+          16.8531086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tierra Colorada, Guerrero, Mexico",
+        "ddd": 745
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5256331,
+          17.1681118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tihuatlan, Ver., Mexico",
+        "ddd": 746
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5342015,
+          20.7157194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chilpancingo, Guerrero, Mexico",
+        "ddd": 747
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5006322,
+          17.5515346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Apan, Hgo., Mexico",
+        "ddd": 748
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.45407,
+          19.711382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Calpulalpan, Méx., Mexico",
+        "ddd": 749
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6265031,
+          20.0596099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Puente de Ixtla, Mor., Mexico",
+        "ddd": 751
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3201479,
+          18.6146871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lázaro Cárdenas, Méx., Mexico",
+        "ddd": 753
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.836003,
+          20.248078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tixtla, Guerrero, Mexico",
+        "ddd": 754
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3995924,
+          17.567656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zihuatanejo, Guerrero, Mexico",
+        "ddd": 755
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5516955,
+          17.6416693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chilapa de Álvarez, Guerrero, Mexico",
+        "ddd": 756
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1758462,
+          17.597969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tlapa de Comonfort, Guerrero, Mexico",
+        "ddd": 757
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5666077,
+          17.548366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Petatlán, Guerrero, Mexico",
+        "ddd": 758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2701934,
+          17.5390397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ixmiquilpan, Hgo., Mexico",
+        "ddd": 759
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2171174,
+          20.4831412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "42400 Huichapan, Hgo., Mexico",
+        "ddd": 761
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6508401,
+          20.3786677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Taxco, Guerrero, Mexico",
+        "ddd": 762
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6051206,
+          18.5565468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chapantongo, Hgo., Mexico",
+        "ddd": 763
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4172728,
+          20.2853035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Xicotepec de Juárez, Pue., Mexico",
+        "ddd": 764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.964257,
+          20.2786413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Temapache, Ver., Mexico",
+        "ddd": 765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.642069,
+          21.070814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gutiérrez Zamora, Ver., Mexico",
+        "ddd": 766
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0901867,
+          20.4516232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciudad Altamirano, Guerrero, Mexico",
+        "ddd": 767
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6686262,
+          18.3578156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Naranjos, Ver., Mexico",
+        "ddd": 768
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.681943,
+          21.3413519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Axochiapan, Morelos, Mexico",
+        "ddd": 769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7536237,
+          18.5036585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pachuca, Hgo., Mexico",
+        "ddd": 771
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7591311,
+          20.1010608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Actopan, Hgo., Mexico",
+        "ddd": 772
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9521357,
+          20.2743499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tula, Hgo., Mexico",
+        "ddd": 773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3395636,
+          20.0535516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Cristóbal, Gto., Mexico",
+        "ddd": 774
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7013238,
+          20.9809035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tulancingo, Hgo., Mexico",
+        "ddd": 775
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3690922,
+          20.0904802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Huauchinango, Pue., Mexico",
+        "ddd": 776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0628862,
+          20.1757001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cuernavaca, Mor., Mexico",
+        "ddd": 777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2215659,
+          18.9242095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Atotonilco de Tula, Hgo., Mexico",
+        "ddd": 778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2203687,
+          20.0096889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tizayuca, Hgo., Mexico",
+        "ddd": 779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9801651,
+          19.8405004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Coyuca de Benítez, Guerrero, Mexico",
+        "ddd": 781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0854729,
+          17.0084639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Poza Rica de Hidalgo, Ver., Mexico",
+        "ddd": 782
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4629119,
+          20.5270592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tuxpan, Ver., Mexico",
+        "ddd": 783
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4063351,
+          20.9561149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Papantla de Olarte, Ver., Mexico",
+        "ddd": 784
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3256925,
+          20.4449232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cerro Azul, Ver., Mexico",
+        "ddd": 785
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7471025,
+          21.1843885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciudad Hidalgo, Michoacán, Mexico",
+        "ddd": 786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.546488,
+          19.6915425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tantoyuca, Ver., Mexico",
+        "ddd": 789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2267665,
+          21.3510619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cd Sahagun, Zona Industrial, Cd Sahagún, Hgo., Mexico",
+        "ddd": 791
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5759706,
+          19.771934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zacatlán, Pue., Mexico",
+        "ddd": 797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9611534,
+          19.9350819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Monterrey, Nuevo Leon, Mexico",
+        "ddd": 81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3161126,
+          25.6866142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Linares, N.L., Mexico",
+        "ddd": 821
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5617847,
+          24.8639494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "General Bravo, Nuevo Leon, Mexico",
+        "ddd": 823
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.176062,
+          25.7954349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sabinas Hidalgo, Nuevo Leon, Mexico",
+        "ddd": 824
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1759285,
+          26.5088029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciénega de Flores, Nuevo Leon, Mexico",
+        "ddd": 825
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.166333,
+          25.9543957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Montemorelos, Nuevo Leon, Mexico",
+        "ddd": 826
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8292338,
+          25.1869786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cadereyta Jiménez, N.L., Mexico",
+        "ddd": 828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9968167,
+          25.5859879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hidalgo, Mexico",
+        "ddd": 829
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7623874,
+          20.0910963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciudad Mante, Tamaulipas, Mexico",
+        "ddd": 831
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9746578,
+          22.7421938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Xicoténcatl, Tamps., Mexico",
+        "ddd": 832
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9438542,
+          22.9952475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tampico, Tamps., Mexico",
+        "ddd": 833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.861099,
+          22.2331041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cd Victoria, Tamps., Mexico",
+        "ddd": 834
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1411154,
+          23.7369164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Soto la Marina, Tamaulipas, Mexico",
+        "ddd": 835
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2076282,
+          23.7680193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ursulo Galván, 89736 Villa Manuel, Tamps., Mexico",
+        "ddd": 836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3228634,
+          22.7293349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Fernando, Ciudad de México, D.F., Mexico",
+        "ddd": 841
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1781383,
+          19.2963762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Parras de la Fuente, Coah., Mexico",
+        "ddd": 842
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.1747077,
+          25.4492883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Saltillo, Coah., Mexico",
+        "ddd": 844
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9954254,
+          25.4267244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ebano, San Luis Potosi, Mexico",
+        "ddd": 845
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3758762,
+          22.2165831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pánuco, Ver., Mexico",
+        "ddd": 846
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1820596,
+          22.0535642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sabinas, Coah., Mexico",
+        "ddd": 861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2982031,
+          27.9251709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Allende, Nuevo Leon, Mexico",
+        "ddd": 862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0191857,
+          25.2797312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Santa Rosa de Múzquiz, Coahuila, Mexico",
+        "ddd": 864
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5077573,
+          27.8800603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Monclova, Coahuila, Mexico",
+        "ddd": 866
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4215236,
+          26.9080378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nuevo Laredo, Tamaulipas, Mexico",
+        "ddd": 867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.549573,
+          27.4779362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Matamoros, Tamaulipas, Mexico",
+        "ddd": 868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5027376,
+          25.8690294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Buenaventura, Méx., Mexico",
+        "ddd": 869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8610882,
+          19.3083938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Torreón, Coahuila, Mexico",
+        "ddd": 871
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4067861,
+          25.5428443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Pedro, Coah., Mexico",
+        "ddd": 872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9838564,
+          25.7572143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Anáhuac I Secc, Ciudad de México, D.F., Mexico",
+        "ddd": 873
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1802147,
+          19.4413563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cd Acuña, Coah., Mexico",
+        "ddd": 877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9514187,
+          29.3232963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Piedras Negras, Coahuila, Mexico",
+        "ddd": 878
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5408622,
+          28.6916182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Camargo, Chih., Mexico",
+        "ddd": 891
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1713145,
+          27.6799994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cerralvo, N.L., Mexico",
+        "ddd": 892
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6174332,
+          26.0800647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Valle Hermoso, Tamaulipas, Mexico",
+        "ddd": 894
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8159111,
+          25.6683739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciudad Miguel Alemán, Tamaulipas, Mexico",
+        "ddd": 897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0310434,
+          26.3995427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Reynosa, Tamaulipas, Mexico",
+        "ddd": 899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2978951,
+          26.0508406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ciudad Frontera, Coahuila, Mexico",
+        "ddd": 913
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4509506,
+          26.9348145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jalpa de Méndez, Tab., Mexico",
+        "ddd": 914
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.070142,
+          18.1747989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Palenque, Chis., Mexico",
+        "ddd": 916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9930466,
+          17.5109792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "86400 Huimanguillo, Tab., Mexico",
+        "ddd": 917
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3918106,
+          17.8320441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mapastepec, Chis., Mexico",
+        "ddd": 918
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8978399,
+          15.4329682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ocosingo, Chis., Mexico",
+        "ddd": 919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0943704,
+          16.9087202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Coatzacoalcos, Ver., Mexico",
+        "ddd": 921
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4589858,
+          18.1344779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Minatitlán, Ver., Mexico",
+        "ddd": 922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5572847,
+          18.0005464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Choapas, Petrolera, 02480 Ciudad de México, D.F., Mexico",
+        "ddd": 923
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2006149,
+          19.4865622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Acayucan, Ver., Mexico",
+        "ddd": 924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9145974,
+          17.949192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Teapa, Tab., Mexico",
+        "ddd": 932
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9500647,
+          17.5671054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Comalcalco, Tabasco, Mexico",
+        "ddd": 933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2216864,
+          18.261156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Emiliano Zapata, Morelos, Mexico",
+        "ddd": 934
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1843676,
+          18.8478608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Macuspana, Tabasco, Mexico",
+        "ddd": 936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5936096,
+          17.7607017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cárdenas, Tabasco, Mexico",
+        "ddd": 937
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3732339,
+          18.0012067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cd del Carmen, Camp., Mexico",
+        "ddd": 938
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8074586,
+          18.6504879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Oaxaca, Oaxaca, Mexico",
+        "ddd": 951
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7216219,
+          17.0594169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Heroica Ciudad de Huajuapan de Leon, Oaxaca, Mexico",
+        "ddd": 953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7824225,
+          17.8071247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pinotepa Nacional, Oaxaca, Mexico",
+        "ddd": 954
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.053687,
+          16.3411824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Santa María Huatulco, Oaxaca, Mexico",
+        "ddd": 958
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3199488,
+          15.8340071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tuxtla Gutiérrez, Chis., Mexico",
+        "ddd": 961
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1029939,
+          16.7516009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tapachula de Córdova y Ordoñez, Chis., Mexico",
+        "ddd": 962
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2634136,
+          14.9055567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Comitán de Domínguez, Chis., Mexico",
+        "ddd": 963
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1155691,
+          16.2299602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Huixtla, Chis., Mexico",
+        "ddd": 964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4659189,
+          15.137663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Villa Flores, Chis., Mexico",
+        "ddd": 965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2678012,
+          15.7665765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tonalá, Jalisco, Mexico",
+        "ddd": 966
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2413723,
+          20.6237413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Cristóbal de las Casas, Chis., Mexico",
+        "ddd": 967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6376186,
+          16.7370359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cintalapa de Figueroa, Chis., Mexico",
+        "ddd": 968
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7282769,
+          16.6841549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Progreso, Yuc., Mexico",
+        "ddd": 969
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6651628,
+          21.2811908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Juchitán de Zaragoza, Oax., Mexico",
+        "ddd": 971
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0221197,
+          16.4406909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Matías Romero, Oaxaca, Mexico",
+        "ddd": 972
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0347786,
+          16.8786814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Campeche, Camp., Mexico",
+        "ddd": 981
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5349087,
+          19.8301251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Escárcega, Campeche, Mexico",
+        "ddd": 982
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7390245,
+          18.6101834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chetumal, Q.R., Mexico",
+        "ddd": 983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.296146,
+          18.5001889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Playa del Carmen, Quintana Roo, Mexico",
+        "ddd": 984
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0738851,
+          20.6295586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Valladolid, Yuc., Mexico",
+        "ddd": 985
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2022488,
+          20.68964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tizimín, Yuc., Mexico",
+        "ddd": 986
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1496087,
+          21.1454686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cozumel, Quintana Roo, Mexico",
+        "ddd": 987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9223432,
+          20.4229839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Izamal, Yuc., Mexico",
+        "ddd": 988
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0227126,
+          20.9299997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "97430 Motul de Carrillo Puerto, Yuc., Mexico",
+        "ddd": 991
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2799763,
+          21.098173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Teopisca, Chis., Mexico",
+        "ddd": 992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4726212,
+          16.5414817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Villahermosa, Tab., Mexico",
+        "ddd": 993
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9475061,
+          17.989456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chahuites, Oaxaca, Mexico",
+        "ddd": 994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1929799,
+          16.2865309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Santa María Jalapa del Marqués, Oax., Mexico",
+        "ddd": 995
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4449791,
+          16.4399924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Calkini, Campeche, Mexico",
+        "ddd": 996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0504683,
+          20.3708555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ticul, Yuc., Mexico",
+        "ddd": 997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5366458,
+          20.3977696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cancún, Quintana Roo, Mexico",
+        "ddd": 998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8515279,
+          21.161908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "97139 Merida, Yucatan, Mexico",
+        "ddd": 999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5925857,
+          20.9673702
+        ]
+      }
+    }
+  ]
+}
